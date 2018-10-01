@@ -1,0 +1,81 @@
+2018-09-30 18:00:12 INFO  TestBase:93 - Initialized WebDriver1926673338
+2018-09-30 18:00:12 INFO  TestBase:100 - null
+2018-09-30 18:00:14 INFO  WaitHelper:141 - waiting for :[[ChromeDriver: chrome on XP (861d1fb384ceb3fbb7e4ce463622d26e)] -> xpath: //*[@id='c24-meinkonto']/span/span[2]]de.check24.PageObjectDataDriven.helper.wait.WaitHelper@35399441for:20seconds
+2018-09-30 18:00:14 INFO  WaitHelper:144 - element is visible now by using by WebDriverWait
+2018-09-30 18:00:14 INFO  TestBase:131 - capturing ui navigation screen...
+2018-09-30 18:00:14 INFO  JavaScriptHelper:16 - JavaScriptHelper has been initialised
+2018-09-30 18:00:14 INFO  TestBase:111 - fileName is blank..
+2018-09-30 18:00:15 INFO  JavaScriptHelper:16 - JavaScriptHelper has been initialised
+2018-09-30 18:00:15 INFO  LandingPage:62 - clicked on navigation to signin link...
+2018-09-30 18:00:15 INFO  LandingPage:57 - clicking on signin link...
+2018-09-30 18:00:15 INFO  WaitHelper:141 - waiting for :[[ChromeDriver: chrome on XP (861d1fb384ceb3fbb7e4ce463622d26e)] -> xpath: //*[@id='c24-breadcrumb']/div/ul/li/a]de.check24.PageObjectDataDriven.helper.wait.WaitHelper@46dffdc3for:20seconds
+2018-09-30 18:00:15 INFO  WaitHelper:144 - element is visible now by using by WebDriverWait
+2018-09-30 18:00:15 INFO  TestBase:131 - capturing ui navigation screen...
+2018-09-30 18:00:15 INFO  JavaScriptHelper:16 - JavaScriptHelper has been initialised
+2018-09-30 18:00:15 INFO  TestBase:111 - fileName is blank..
+2018-09-30 18:00:16 INFO  JavaScriptHelper:16 - JavaScriptHelper has been initialised
+2018-09-30 18:00:16 INFO  TestBase:155 - excel location C:\Users\anilk\eclipse-workspace\Check24DataDriven\src\main\resources\configFiles\testData.xlsx
+2018-09-30 18:00:16 INFO  TestBase:56 - **************loginTestStarted***************
+2018-09-30 18:00:16 INFO  WaitHelper:141 - waiting for :[[ChromeDriver: chrome on XP (861d1fb384ceb3fbb7e4ce463622d26e)] -> xpath: //*[@id='c24-breadcrumb']/div/ul/li/a]de.check24.PageObjectDataDriven.helper.wait.WaitHelper@73511076for:20seconds
+2018-09-30 18:00:16 INFO  WaitHelper:144 - element is visible now by using by WebDriverWait
+2018-09-30 18:00:16 INFO  TestBase:131 - capturing ui navigation screen...
+2018-09-30 18:00:16 INFO  JavaScriptHelper:16 - JavaScriptHelper has been initialised
+2018-09-30 18:00:16 INFO  TestBase:111 - fileName is blank..
+2018-09-30 18:00:17 INFO  JavaScriptHelper:16 - JavaScriptHelper has been initialised
+2018-09-30 18:00:17 INFO  VerificationHelper:21 - element is displayed..Anmeldung
+2018-09-30 18:00:17 INFO  LandingPage:59 - Entering email address...
+2018-09-30 18:00:17 INFO  LandingPage:65 - Entering password...
+2018-09-30 18:00:17 INFO  LandingPage:71 - Clicking on login...
+2018-09-30 18:00:17 INFO  WaitHelper:141 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='c24-kb-container']/div/div[1]/div/div/div/p[contains(text(),'Sie sind angemeldet')]'de.check24.PageObjectDataDriven.helper.wait.WaitHelper@4905c46bfor:20seconds
+2018-09-30 18:00:19 INFO  WaitHelper:144 - element is visible now by using by WebDriverWait
+2018-09-30 18:00:19 INFO  TestBase:131 - capturing ui navigation screen...
+2018-09-30 18:00:19 INFO  JavaScriptHelper:16 - JavaScriptHelper has been initialised
+2018-09-30 18:00:19 INFO  TestBase:111 - fileName is blank..
+2018-09-30 18:00:19 INFO  JavaScriptHelper:16 - JavaScriptHelper has been initialised
+2018-09-30 18:00:19 INFO  LandingPage:77 - Verifying successfully logged in or not 
+2018-09-30 18:00:19 INFO  WaitHelper:141 - waiting for :[[ChromeDriver: chrome on XP (861d1fb384ceb3fbb7e4ce463622d26e)] -> xpath: //*[@id='c24-kb-container']/div/div[1]/div/div/div/p[contains(text(),'Sie sind angemeldet')]]de.check24.PageObjectDataDriven.helper.wait.WaitHelper@57c88764for:20seconds
+2018-09-30 18:00:19 INFO  WaitHelper:144 - element is visible now by using by WebDriverWait
+2018-09-30 18:00:20 INFO  VerificationHelper:21 - element is displayed..Sie sind angemeldet als anil.kundeti@gmail.com
+2018-09-30 18:00:20 INFO  AssertionHelper:27 - Making script PASS..
+2018-09-30 18:00:20 INFO  LandingPage:114 - clicking on SignoutLink...
+2018-09-30 18:00:20 INFO  LandingPage:100 - clicking on My Account link...
+2018-09-30 18:00:20 INFO  LandingPage:105 - clicking on My Account link...
+2018-09-30 18:00:20 INFO  WaitHelper:141 - waiting for :[[ChromeDriver: chrome on XP (861d1fb384ceb3fbb7e4ce463622d26e)] -> xpath: //*[@id='c24-meinkonto']/div/div[2]/a]de.check24.PageObjectDataDriven.helper.wait.WaitHelper@408b87aafor:20seconds
+2018-09-30 18:00:20 INFO  WaitHelper:144 - element is visible now by using by WebDriverWait
+2018-09-30 18:00:21 INFO  LandingPage:120 - validating logout...
+2018-09-30 18:00:21 INFO  WaitHelper:141 - waiting for :[[ChromeDriver: chrome on XP (861d1fb384ceb3fbb7e4ce463622d26e)] -> xpath: //*[@id='c24-customer-salutation']/a]de.check24.PageObjectDataDriven.helper.wait.WaitHelper@a33b4e3for:20seconds
+2018-09-30 18:00:21 INFO  WaitHelper:144 - element is visible now by using by WebDriverWait
+2018-09-30 18:00:21 INFO  VerificationHelper:21 - element is displayed..Anmelden
+2018-09-30 18:00:21 INFO  TestBase:77 - **************loginTestFinished***************
+2018-09-30 18:00:21 INFO  TestBase:56 - **************loginTestStarted***************
+2018-09-30 18:00:21 INFO  WaitHelper:141 - waiting for :[[ChromeDriver: chrome on XP (861d1fb384ceb3fbb7e4ce463622d26e)] -> xpath: //*[@id='c24-breadcrumb']/div/ul/li/a]de.check24.PageObjectDataDriven.helper.wait.WaitHelper@6d025d1dfor:20seconds
+2018-09-30 18:00:21 INFO  WaitHelper:144 - element is visible now by using by WebDriverWait
+2018-09-30 18:00:21 INFO  TestBase:131 - capturing ui navigation screen...
+2018-09-30 18:00:21 INFO  JavaScriptHelper:16 - JavaScriptHelper has been initialised
+2018-09-30 18:00:21 INFO  TestBase:111 - fileName is blank..
+2018-09-30 18:00:22 INFO  JavaScriptHelper:16 - JavaScriptHelper has been initialised
+2018-09-30 18:00:22 INFO  VerificationHelper:21 - element is displayed..Anmeldung
+2018-09-30 18:00:22 INFO  LandingPage:59 - Entering email address...
+2018-09-30 18:00:22 INFO  LandingPage:65 - Entering password...
+2018-09-30 18:00:22 INFO  LandingPage:71 - Clicking on login...
+2018-09-30 18:00:22 INFO  WaitHelper:141 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='c24-kb-container']/div/div[1]/div/div/div/p[contains(text(),'Sie sind angemeldet')]'de.check24.PageObjectDataDriven.helper.wait.WaitHelper@44032fdefor:20seconds
+2018-09-30 18:00:24 INFO  WaitHelper:144 - element is visible now by using by WebDriverWait
+2018-09-30 18:00:24 INFO  TestBase:131 - capturing ui navigation screen...
+2018-09-30 18:00:24 INFO  JavaScriptHelper:16 - JavaScriptHelper has been initialised
+2018-09-30 18:00:24 INFO  TestBase:111 - fileName is blank..
+2018-09-30 18:00:25 INFO  JavaScriptHelper:16 - JavaScriptHelper has been initialised
+2018-09-30 18:00:25 INFO  LandingPage:77 - Verifying successfully logged in or not 
+2018-09-30 18:00:25 INFO  WaitHelper:141 - waiting for :[[ChromeDriver: chrome on XP (861d1fb384ceb3fbb7e4ce463622d26e)] -> xpath: //*[@id='c24-kb-container']/div/div[1]/div/div/div/p[contains(text(),'Sie sind angemeldet')]]de.check24.PageObjectDataDriven.helper.wait.WaitHelper@24386839for:20seconds
+2018-09-30 18:00:25 INFO  WaitHelper:144 - element is visible now by using by WebDriverWait
+2018-09-30 18:00:25 INFO  VerificationHelper:21 - element is displayed..Sie sind angemeldet als srividyakundeti@gmx.de
+2018-09-30 18:00:25 INFO  AssertionHelper:27 - Making script PASS..
+2018-09-30 18:00:25 INFO  LandingPage:114 - clicking on SignoutLink...
+2018-09-30 18:00:25 INFO  LandingPage:100 - clicking on My Account link...
+2018-09-30 18:00:25 INFO  LandingPage:105 - clicking on My Account link...
+2018-09-30 18:00:25 INFO  WaitHelper:141 - waiting for :[[ChromeDriver: chrome on XP (861d1fb384ceb3fbb7e4ce463622d26e)] -> xpath: //*[@id='c24-meinkonto']/div/div[2]/a]de.check24.PageObjectDataDriven.helper.wait.WaitHelper@72503b19for:20seconds
+2018-09-30 18:00:25 INFO  WaitHelper:144 - element is visible now by using by WebDriverWait
+2018-09-30 18:00:26 INFO  LandingPage:120 - validating logout...
+2018-09-30 18:00:26 INFO  WaitHelper:141 - waiting for :[[ChromeDriver: chrome on XP (861d1fb384ceb3fbb7e4ce463622d26e)] -> xpath: //*[@id='c24-customer-salutation']/a]de.check24.PageObjectDataDriven.helper.wait.WaitHelper@6215366afor:20seconds
+2018-09-30 18:00:26 INFO  WaitHelper:144 - element is visible now by using by WebDriverWait
+2018-09-30 18:00:26 INFO  VerificationHelper:21 - element is displayed..Anmelden
+2018-09-30 18:00:26 INFO  TestBase:77 - **************loginTestFinished***************
